@@ -1,0 +1,5 @@
+- 👋 I’m kymani>rogers
+- 👀 I am a Computer Science student gaining knowledge in full-stack development, AI & Machine Learning and Mathematics. My goal is to grow my development skills as Im loving building and problem-solving code to make cool projects
+- 🌱 I’m currently learning Python 
+- 📫 Reach me at: kymanirogers99@gmail.com
+- Outside of tech I love to 🤼 train Jiu Jitsu, 🍺 meet friends, 🎵 listen to new music and 🌎 learn Portuguese
